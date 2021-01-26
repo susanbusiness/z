@@ -1,3 +1,1 @@
-function msg(){  
- alert("Hello");  
-}  
+alert("Hello");
